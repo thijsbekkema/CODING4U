@@ -1,2 +1,2 @@
-var naam = danny;
-
+var naam = Danny;
+var master= Michel;
